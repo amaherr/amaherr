@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I code, I compete, and sometimes I even sleep.<br><br>🎓 Data Science @ GIU<br>🤖 AI Engineer Intern @ O-Projects<br>💻 Ex-Intern @ Vodafone<br>🏆 ECPC Finalist<br><br>I love mixing AI, software engineering, and a bit of problem-solving madness to create projects that actually make an impact. Always learning, always coding,  and usually smiling while doing it!</p>
+<p align="left">I code, I compete, and sometimes I even sleep.<br><br>🎓 Data Science @ GIU <br>💻 Ex-Intern @ Vodafone and O-Projects<br>🏆 ECPC Finalist<br><br>I love mixing AI, software engineering, and a bit of problem-solving madness to create projects that actually make an impact. Always learning, always coding,  and usually smiling while doing it!</p>
 
 ###
 
